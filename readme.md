@@ -1,30 +1,28 @@
 # Vriddhi
 > The perfect local E-Governance solution
 
-Separate feed that provides details about the local leaders and politicians and is updated regularly
-A dedicated grievance section for the public to voice their problems, and for the leaders to hear them.
-A dedicated panel with all the relevant helpline numbers that the people can use in case of emergencies.
+Separate feed that provides details about the local leaders and politicians and is updated regularly \
+A dedicated grievance section for the public to voice their problems, and for the leaders to hear them. \
+A dedicated panel with all the relevant helpline numbers that the people can use in case of emergencies. \
 
 ![](home.png)
 
 
 
 ## Usage example
-
-A few motivating and useful examples of how your product can be used. Spice this up with code blocks and potentially more screenshots.
-
-_For more examples and usage, please refer to the [Wiki][wiki]._
-
-
+Got trouble with your stret lights, or maybe potholes inyour society, fear not we at Vriddhi got your back.\
+You could register complanits on the app. \
+Get to know your local leaders/represenatatives. \
+One stop solution for all your local governance needs.
 
 ## Contributors
 
-Shubham Gore
-Rakesh Venkat
-Shaswat Srisvastava
-Yuvraj Chibber
-Manan Bhasin
-Dushyant Betala
+Shubham Gore \
+Rakesh Venkat \
+Shaswat Srisvastava \
+Yuvraj Chibber \
+Manan Bhasin \
+Dushyant Betala \
 
 <!-- Markdown link & img dfn's -->
 [npm-image]: https://img.shields.io/npm/v/datadog-metrics.svg?style=flat-square
