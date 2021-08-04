@@ -19,7 +19,7 @@ One stop solution for all your local governance needs.
 
 Shubham Gore \
 Rakesh Venkat \
-Shaswat Srisvastava \
+Shaswat Srivastava \
 Yuvraj Chibber \
 Manan Bhasin \
 Dushyant Betala 
